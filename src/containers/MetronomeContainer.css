@@ -1,0 +1,8 @@
+.container{
+    background-color: rgb(29, 31, 58);
+    color: seashell;
+    border: 1px solid black;
+    border-radius: 10%;
+    display: inline-block;
+    margin: 5%;
+}
